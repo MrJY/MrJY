@@ -1,4 +1,4 @@
-### Hi there :love:加藤惠是世界上最可爱的女孩子
+### Hi there :heart: 加藤惠是世界上最可爱的女孩子
 
 <!--
 **MrJY/MrJY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
