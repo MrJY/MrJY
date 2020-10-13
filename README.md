@@ -1,4 +1,4 @@
-### Hi there 👋加藤惠是世界上最可爱的女孩子
+### Hi there :love:加藤惠是世界上最可爱的女孩子
 
 <!--
 **MrJY/MrJY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MrJY github stats](https://github-readme-stats.vercel.app/api?username=MrJY)](https://github.com/MrJY/github-readme-stats)
+[![MrJY's github stats](https://github-readme-stats.vercel.app/api?username=MrJY)](https://github.com/MrJY/github-readme-stats)
